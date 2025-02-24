@@ -4,3 +4,8 @@ https://www.nxtprograms.com/
 Lego Mindstorms NXT Screen Repair Alternative
 https://youtu.be/pxdQ2QiEmJ0
 
+Info: http://bricxcc.sourceforge.net/
+Download: https://sourceforge.net/projects/bric...
+
+NXT Screen utility
+http://bricxcc.sourceforge.net/utilit...
